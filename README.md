@@ -9,16 +9,8 @@ Here, you'll find a collection of well-structured and optimized solutions to a w
 
 ## 📚 About
 
-This repo is a personal archive of GFG problems I've solved while learning and mastering DSA concepts. It covers:
+This repo is a personal archive of GFG problems I've solved while learning and mastering DSA concepts.
 
-- 📐 Algorithms
-- 🌳 Data Structures
-- 🔁 Recursion & Backtracking
-- 🧠 Dynamic Programming
-- 🧮 Mathematics
-- 🎯 Searching & Sorting
-- 🧵 Strings
-- 🧰 Miscellaneous
 
 > Each problem is solved in a beginner-friendly and optimal manner wherever possible.
 
@@ -27,7 +19,6 @@ This repo is a personal archive of GFG problems I've solved while learning and m
 ## 🧑‍💻 Languages Used
 
 - ✅ C++
-- 🔵 JavaScript *(more coming soon!)*
 
 ---
 
@@ -44,15 +35,6 @@ Each folder contains problems relevant to that topic with proper naming conventi
 
 ---
 
-## 🔥 Motivation
-
-> “Practice like you've never won. Perform like you've never lost.”  
-> ― Bernard F. Asuncion
-
-![Code Motivation](https://media.giphy.com/media/3o6ZsWGBYrxvFJzQTC/giphy.gif)
-
----
-
 ## 📌 Contributions
 
 Feel free to:
@@ -64,7 +46,7 @@ Feel free to:
 
 ## 📞 Contact
 
-📬 Reach me via [GitHub](https://github.com/LSUDOK)
+📬 Reach me via [GitHub](https://github.com/LSUDOKU)
 
 ---
 
